@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "email": "mail1@mail.com",
+      "username": "username1",
+      "password": "Mm12345678",
+      "createdAt": "2023-11-25T20:25:35.325Z",
+      "id": 1
+    },
+    {
+      "email": "mail2@mail.com",
+      "username": "username2",
+      "password": "Mm12345678",
+      "createdAt": "2023-12-02T14:15:26.182Z",
+      "id": 2
+    }
+  ],
+  "notes": [
+    {
+      "title": "123",
+      "body": "123к54п",
+      "userId": 1,
+      "createdAt": "2023-12-02T13:58:31.818Z",
+      "id": 1
+    },
+    {
+      "title": "123",
+      "userId": 2,
+      "createdAt": "2023-12-02T14:15:45.550Z",
+      "id": 2
+    }
+  ]
+}
