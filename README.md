@@ -1,7 +1,17 @@
-# Notion Multi-User Note-taking App
+# Note-taking App
 
-This is a multi-user note-taking application that allows users to manage their notes. Each user can register, log in, create, edit, and delete their own notes. 
-The application is built using [Tailwind CSS](https://tailwindcss.com/) for styling.
+This is a multi-user note-taking application that allows users to manage their notes. 
+
+## Preview on Desktop
+
+![Desktop Preview](./preview/desktop.png "Desktop 1440x900px")
+
+## Technologies
+
+- React
+- React Hooks (and custom hooks)
+- TailWind for styling
+- Json-Server for development purposes
 
 ## Features
 
