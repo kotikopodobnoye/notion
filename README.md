@@ -4,7 +4,9 @@ This is a multi-user note-taking application that allows users to manage their n
 
 ## Preview on Desktop
 
-![Desktop Preview](./preview/desktop.png "Desktop 1440x900px")
+![Desktop Preview](./preview/desktop1.png "Desktop 1440x900px")
+![Desktop Preview](./preview/desktop2.png "Desktop 1440x900px")
+![Desktop Preview](./preview/desktop3.png "Desktop 1440x900px")
 
 ## Technologies
 
