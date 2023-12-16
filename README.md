@@ -1,8 +1,14 @@
-# React + Vite
+# Notion Multi-User Note-taking App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a multi-user note-taking application that allows users to manage their notes. Each user can register, log in, create, edit, and delete their own notes. 
+The application is built using [Tailwind CSS](https://tailwindcss.com/) for styling.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Registration**: Users can register with their email and password to create an account.
+- **Login**: Users can log into the application using their registered email and password.
+- **Home Page**: After logging in, users are redirected to the home page, which displays their registration date and provides a link to access their notes.
+- **Notes**: Users can view their existing notes on this page. Each note is shown with its title, creation date, and options to edit or delete the note.
+- **Create Note**: Users can create a new note by providing a title and body text. The note is saved with the current date and time.
+- **Edit Note**: Users can edit the title and body text of an existing note. Changes are saved automatically.
+- **View Note**: Users can view the details of a note, including its title, body text, and creation date.
